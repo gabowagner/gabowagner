@@ -1,7 +1,7 @@
 ## Gabriel Wagner
 **HTML | CSS | BOOTSTRAP | TAILWIND | SASS | JAVASCRIPT | TYPESCRIPT | JQUERY | REACT | NEXT | NODE | EXPRESS | SQL | PRISMA** \
 <br>
-🇦🇷
+🇦🇷 \
 Estudiante de psicología \
 Progamador Full-Stack autodidacta
 
