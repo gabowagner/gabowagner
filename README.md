@@ -1,7 +1,7 @@
 🇦🇷
 ## Gabriel Wagner
-Estudiante de psicología;
-Progamador Full-Stack autodidacta; 
+Estudiante de psicología \
+Progamador Full-Stack autodidacta
 
 
 <!---
