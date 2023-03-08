@@ -1,7 +1,10 @@
-🇦🇷
 ## Gabriel Wagner
+🇦🇷
 Estudiante de psicología \
-Progamador Full-Stack autodidacta
+Progamador Full-Stack autodidacta \
+<br>
+**HTML | CSS | BOOTSTRAP | TAILWIND | SASS | JAVASCRIPT | TYPESCRIPT | JQUERY | REACT | NEXT | NODE | EXPRESS | SQL | PRISMA**
+
 
 
 <!---
