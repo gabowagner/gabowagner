@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @gabowagner. Argentinean Psychology Student and Programming newbie;
+## 👋 Hi, I’m @gabowagner.
+
+- Argentinean Psychology Student and Programming newbie;
 - 👀 I’m interested in music, movies, philosophy, and programming; 
 - 🌱 I’m currently learning Psychology at College, and JavaScript on my own;
 <!-- - 💞️ I’m looking to collaborate on ... -->
