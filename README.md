@@ -4,7 +4,6 @@
 🇦🇷 \
 Estudiante de psicología \
 Progamador Full-Stack autodidacta <br> 
-![LinkedIn](https://www.linkedin.com/in/wagnergabriel96/)
 
 
 
