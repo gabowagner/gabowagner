@@ -4,7 +4,7 @@
 🇦🇷 \
 Estudiante de psicología \
 Progamador Full-Stack autodidacta <br> 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)![  Gabriel Wagner](https://www.linkedin.com/in/wagnergabriel96/)
+![LinkedIn](https://www.linkedin.com/in/wagnergabriel96/)
 
 
 
