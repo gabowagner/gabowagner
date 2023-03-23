@@ -1,5 +1,5 @@
 ## Gabriel Wagner
-**HTML | CSS | BOOTSTRAP | TAILWIND | SASS | JAVASCRIPT | TYPESCRIPT | JQUERY | REACT | NEXT | NODE | EXPRESS | SQL | PRISMA** \
+**![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | CSS | BOOTSTRAP | TAILWIND | SASS | JAVASCRIPT | TYPESCRIPT | JQUERY | REACT | NEXT | NODE | EXPRESS | SQL | PRISMA** \
 <br>
 🇦🇷 \
 Estudiante de psicología \
